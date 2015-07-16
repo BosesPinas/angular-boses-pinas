@@ -17,9 +17,7 @@ Open command line and do the following commands
 	> cd c:\xampp\htdocs
 	> git clone https://github.com/BosesPinas/angular-boses-pinas.git
 	> cd angular-boses-pinas
-	> npm install
 	> npm install -g bower
-	> bower install
-	> npm install connect serve-static
-	> node server
+	> npm install
+	> npm start
 	> open browser and type `http://localhost:8000/index.html`
